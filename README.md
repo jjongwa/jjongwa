@@ -1,5 +1,5 @@
-<img src="https://img.shields.io/badge/troas96@naver.com-3DDC84?style=square&logo=naver&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/jjong_wa-3DDC84?style=square&logo=insta&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/troas96@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jjong_wa-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 - 👋 Hi, I’m @jjongwa
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
