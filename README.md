@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjongwa&show_icons=true&theme=radical)
+
 
 
 Platforms & Languages
@@ -23,3 +23,7 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2b&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjongwa&show_icons=true&theme=radical)
