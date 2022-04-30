@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjongwa, majoring in computer engineering at Hongik University.
 - 👀 I’m interested in Backend engineering
-- 🌱 I’m currently learning Backend server development using spring-boot, but I want to learn other frameworks besides spring. I am a student with so much to learn!!
-- 💞️ I wanna be Backend Developer
+- 🌱 I’m currently learning Backend server development using spring-boot
+- 💞️ I wanna be Backend developer, and more importantly, I continue to be interested in studying.
 - 📫 How to reach me ... <img src="https://img.shields.io/badge/troas96@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>  <img src="https://img.shields.io/badge/troas96@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <img src="https://img.shields.io/badge/jjong_wa-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 <!---
