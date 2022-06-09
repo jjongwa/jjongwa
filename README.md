@@ -26,4 +26,10 @@ Platforms & Languages
 
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjongwa&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=troas96)](https://solved.ac/troas96/)
+
+
