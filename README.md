@@ -32,4 +32,4 @@ Platforms & Languages
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=troas96)](https://solved.ac/troas96/)
 
-<img src="http://mazandi.herokuapp.com/api?handle=troas96&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=troas96&theme=cold"/>
