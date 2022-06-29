@@ -28,7 +28,7 @@ Platforms & Languages
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjongwa&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjongwa&show_icons=true&theme=aura)
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=troas96)](https://solved.ac/troas96/) -->
 
