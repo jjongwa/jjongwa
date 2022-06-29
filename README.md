@@ -28,6 +28,8 @@ Platforms & Languages
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjongwa&show_icons=true&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjongwa&show_icons=true&theme=aura)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjongwa&layout=compact&theme=aura)](https://github.com/jjongwa/github-readme-stats) 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=troas96)](https://solved.ac/troas96/)  <img src="http://mazandi.herokuapp.com/api?handle=troas96&theme=cold"/>
+
+
