@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jjongwa, majoring in computer engineering at Hongik University.
+- 👋 Hi, I’m @jjongwa, graduated from computer engineering at Hongik University.
 - 👀 I'm currently interested in web development engineering and artificial intelligence.
-- 🌱 I’m currently learning Monitoring automation logic using selenium, a test automation program
+- 🌱 I’m currently learning web backend development at [@woowacourse](https://github.com/woowacourse).
 - 💞️ I wanna be a full stack developer, and more importantly, I continue to be interested in studying.
 - 📫 How to reach me ... <img src="https://img.shields.io/badge/troas96@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>  <img src="https://img.shields.io/badge/troas96@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <img src="https://img.shields.io/badge/jjong_wa-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
