@@ -1,4 +1,4 @@
-![dino](https://github.com/jjongwa/jjongwa/assets/77482065/cbee27db-0f9b-4a5e-9ffc-f48981341107)
+<img src="https://github.com/jjongwa/jjongwa/assets/77482065/cbee27db-0f9b-4a5e-9ffc-f48981341107" width="650" height="210"/>
 
 ## JongHwa Shin (dino) 
 
